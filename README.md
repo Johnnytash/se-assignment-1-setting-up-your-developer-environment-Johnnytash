@@ -12,7 +12,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 Sources: Documentations of VSCode, Python, Flutter, Dart, MYSQL, GIT, and Windows 11
 
-1. Select Your Operating System (OS):
+### Select Your Operating System (OS): ###
    Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
 
 Step 1: Create Windows 11 Installation Media
@@ -39,15 +39,15 @@ Step 1: Create Windows 11 Installation Media
 
    4. Create the Installation Media:
    ![alt text](<select usb drive.png>)
-      - Insert a USB flash drive with at least 8 GB of storage.
-      - Select the USB drive from the list and click "Next".
+   - Insert a USB flash drive with at least 8 GB of storage.
+   - Select the USB drive from the list and click "Next".
 
    ![alt text](<downloading windows 11.png>)
     
-      - The tool will download Windows 11 and create the bootable USB drive.
-      - After that click finish
+   - The tool will download Windows 11 and create the bootable USB drive.
+   - After that click finish
 
-      ![alt text](<click finish.png>)
+   ![alt text](<click finish.png>)
 
 Step 2: Install Windows 11 Using the Installation Media
    1. Prepare Your PC:
@@ -70,10 +70,10 @@ Step 2: Install Windows 11 Using the Installation Media
        
       ![alt text](<install now.png>)
 
-   4.  Enter Product Key:
-      - If prompted, enter your Windows 11 product key. If you are upgrading from Windows 10, you may skip this step as the activation should be automatic.
+   4. Enter Product Key:
+   - If prompted, enter your Windows 11 product key. If you are upgrading from Windows 10, you may skip this step as the activation should be automatic.
 
-      ![alt text](<product key.png>)
+   ![alt text](<product key.png>)
 
    5. Select Installation Type:
       - Choose "Custom: Install Windows only (advanced)" for a clean installation.
@@ -100,7 +100,7 @@ Step 3: Complete the Installation
       ![alt text](<windows 11.png>)
 
 
-2. Install a Text Editor or Integrated Development Environment (IDE):
+### Install a Text Editor or Integrated Development Environment (IDE): ###
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
 
 
@@ -152,7 +152,7 @@ Steps to Download and Install VS Code on Windows
 
 
 
-3. Set Up Version Control System:
+### Set Up Version Control System: ###
    Install Git and configure it on your local machine. Create a GitHub account for hosting your repositories. Initialize a Git repository for your project and make your first commit. https://github.com
 
 
@@ -265,7 +265,7 @@ Step 6: Commit and Push Changes
 
 
 
-4. Install Necessary Programming Languages and Runtimes:
+### Install Necessary Programming Languages and Runtimes: Python, Dart, and Flutter SDK###
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
 
@@ -384,7 +384,7 @@ Step 3: Install Flutter SDK on Your Operating System
 
 
 
-5. Install Package Managers:
+### Install Package Managers: ###
    If applicable, install package managers like pip (Python).
 
 Python (pip)
@@ -397,7 +397,7 @@ Python (pip)
 
 
 
-6. Configure a Database (MySQL):
+#### Configure a Database (MySQL): ###
    Download and install MySQL database. https://dev.mysql.com/downloads/windows/installer/5.7.html
 
 1. Download MySQL
@@ -462,7 +462,7 @@ Python (pip)
 
 
 
-7. Set Up Development Environments and Virtualization (Optional):
+### Set Up Development Environments and Virtualization (Optional): ###
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
 
 A. Using Docker
@@ -494,7 +494,7 @@ step 3: Create a Virtual Machine
  
 
 
-8. Explore Extensions and Plugins:
+### Explore Extensions and Plugins: ###
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
 
 Visual Studio Code (VS Code) Extensions
@@ -520,7 +520,7 @@ VS Code is a highly customizable text editor with a vast ecosystem of extensions
 
 
 
-9. Reflection on Challenges
+### Reflection on Challenges ###
 Challenges Faced:
   - Configuring Git: Understanding Git commands and initial setup took some time.
   - Python Installation: Ensuring Python was added to the PATH correctly required careful attention.
@@ -534,12 +534,12 @@ Solutions:
  - MySQL: Used MySQL official documentation and community forums for troubleshooting.
 
 
- 10. Sample github repository:
+### Sample github repository: ###
 https://github.com/Johnnytash/this-is-a-test-repo.git
 
 
 
-11. Document Your Setup:
+### Document Your Setup: ###
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
