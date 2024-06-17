@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vbnbTt5m)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15234542&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
-Setup Development Environment
+### Setup Development Environment ###
 
 #Assignment: Setting Up Your Developer Environment
 
@@ -265,7 +265,7 @@ Step 6: Commit and Push Changes
 
 
 
-### Install Necessary Programming Languages and Runtimes: Python, Dart, and Flutter SDK###
+### Install Necessary Programming Languages and Runtimes: Python, Dart, and Flutter SDK ###
   Instal Python from http://wwww.python.org programming language required for your project and install their respective compilers, interpreters, or runtimes. Ensure you have the necessary tools to build and execute your code.
 
 
@@ -540,7 +540,7 @@ https://github.com/Johnnytash/this-is-a-test-repo.git
 
 
 ### Document Your Setup: ###
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+   Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
